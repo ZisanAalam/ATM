@@ -1,4 +1,4 @@
 # ATM
-Simulation of ATM with otp generation for high security
+ATM Simulator with otp generation for high security
 
 #
