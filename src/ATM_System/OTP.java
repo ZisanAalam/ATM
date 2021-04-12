@@ -17,13 +17,13 @@ class Test{
     public  void sendSms() {
 		try {
 			// Construct data
-			String apiKey = "apikey=" + "QAN+WsGIEj4-BxrRUN1Fq2WOrrwfKxDxthuaqhhQhD";
+			String apiKey = "apikey=" + "";
                         
                         Random rand = new Random();
                         otp = rand.nextInt(999999);
 			String message = "&message=" + otp+ " is your one time password. It is valid fro 10 minutes. Do not share your OTP with anyone";
 			String sender = "&sender=" + "VIT Bank";
-			String numbers = "&numbers=" + "+9779804767774";
+			String numbers = "&numbers=" + "";
 			
 			// Send data
 			HttpURLConnection conn = (HttpURLConnection) new URL("https://api.txtlocal.com/send/?").openConnection();
