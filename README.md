@@ -5,7 +5,10 @@ ATM Simulator with otp generation for high security
 The main goal of this project is to create a virtual simulator for atm with extra security feature.
 
 ## Screenshots:
-<img src="images/image1.png">
+![1](https://github.com/ZisanAalam/ATM/blob/master/screenshots/image1.png?raw=true)
+![2](https://github.com/ZisanAalam/ATM/blob/master/screenshots/image2.png?raw=true)
+![3](https://github.com/ZisanAalam/ATM/blob/master/screenshots/image3.png?raw=true)
+![4](https://github.com/ZisanAalam/ATM/blob/master/screenshots/image4.png?raw=true)
 
 ## Technologies used:
 * Java 
